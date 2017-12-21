@@ -1,0 +1,11 @@
+*{padding: 0; margin: 0} 
+ul,li{ list-style: none;}
+ul{ overflow: hidden;}
+li{ color: #ffffff; height: 40px; line-height: 40px; padding: 0 10px; float: left;}
+.box{ margin: 0 auto; width: 800px }
+p{ height: 50px; line-height: 50px }
+.router-link-active{ color: #ff0000 }
+.current{ color: #ff0000 }
+.mainBox{ border:1px solid #999999; padding: 10px}
+.childBox{ border: 1px dotted #000000; padding: 10px}
+button{ height: 25px; line-height: 25px; padding: 0 10px}
